@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+	padding: 0;
+}
+.main{
+  height: 100vh;
+  background-color: #DED8D8;
+  display: flex;
+}
+.contenedor-aside{
+  color: rebeccapurple;
+}
